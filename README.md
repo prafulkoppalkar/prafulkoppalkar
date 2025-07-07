@@ -1,4 +1,4 @@
-# Hi there, I'm Praful Koppalkar 👋 <a href="https://www.linkedin.com/in/praful-koppalkar-a56792191/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="28" style="vertical-align:top; margin:4px"></a>
+# Hi there, I'm Praful Koppalkar 👋 <a href="https://www.linkedin.com/in/praful-koppalkar-a56792191/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python"  width="28" height="28" style="vertical-align:top; margin:4px"></a>
 
 
 
@@ -13,15 +13,14 @@ My primary focus revolves around building accessible, easily integratable SDKs, 
 - 🌱 I’m currently learning Rescript and new caching techniques.
 ## 🧰 Languages and Tools:
 <p >
-<img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://rescript-lang.org/static/brand/rescript-brandmark.svg" alt="Rescript" height="40" style="vertical-align:top; margin:4px">
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" height="40" style="vertical-align:top; margin:4px">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="28" height="28" />
+  <img src="https://rescript-lang.org/static/brand/rescript-brandmark.svg" alt="Rescript" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="28" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="28" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="28" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="28" height="28" /> 
 </p>
 
 ### Here are some of my highlighted projects:
